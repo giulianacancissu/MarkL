@@ -1,0 +1,21 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de teste curso Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Giuliana Cancissu <giulianacancissu@gmail.com> (https://www.linkedin.com/in/giuliana-canciss%C3%BA-47473788/)",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "allure-commandline": "^2.23.0",
+    "cypress": "^12.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Projeto de teste no Mark L"
+  }
+}
